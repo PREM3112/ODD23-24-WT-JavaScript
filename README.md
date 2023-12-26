@@ -51,7 +51,8 @@ Enter Previous Reading
 </html>
  ```
 # output(9a):
-![9a](/9a.png)
+![9a](https://github.com/PREM3112/ODD23-24-WT-JavaScript/assets/145449383/b68ecf0a-c9cb-48c1-bcf8-bb1ddd0e102a)
+
 
 # Ex-09(b) :
 
@@ -101,7 +102,8 @@ Enter Number: <input type="text" id="num">
 </html>
 ```
 # OUTPUT (9b):
-![9b](/9b.png)
+![9b](https://github.com/PREM3112/ODD23-24-WT-JavaScript/assets/145449383/f3577be0-d5c2-4969-aff0-330817c87edd)
+
 
 # DESIGN STEPS: 9(c)
 # Step 1:
@@ -155,7 +157,8 @@ Generate 'N' prime Number<br>
 </html>
 ```
 # OUTPUT(9c):
-![9c](/9c.png)
+![9c](https://github.com/PREM3112/ODD23-24-WT-JavaScript/assets/145449383/b6e5f6c3-8c05-4cbc-a638-174e807c1e43)
+
 # Ex-09(d)
 
 # AIM
@@ -230,7 +233,12 @@ function divide() {
 </html>
 ```
 # OUTPUT(9d):
-![9d](/9d.png)
+![9d](https://github.com/PREM3112/ODD23-24-WT-JavaScript/assets/145449383/40735969-2009-4828-a438-38e4e495057c)
+![add](https://github.com/PREM3112/ODD23-24-WT-JavaScript/assets/145449383/38d9d493-5d31-4776-991d-d04d6ab5683b)
+![sub](https://github.com/PREM3112/ODD23-24-WT-JavaScript/assets/145449383/c4404e8f-40b7-4007-8953-61d0f297bfa8)
+![multi](https://github.com/PREM3112/ODD23-24-WT-JavaScript/assets/145449383/3dc2c62e-e204-4133-8eb7-14c98a5f3e6a)
+![div](https://github.com/PREM3112/ODD23-24-WT-JavaScript/assets/145449383/a0b8567c-e593-49f6-9343-bdfdf0e41280)
+
 
 
 
@@ -318,14 +326,16 @@ document.getElementById("num").style.fontStyle = "normal";
 ```
 
 # OUTPUT(9e):
-![9e](/9e%201.png)
-![9e2](/9e%202.png)
-![9e3](/9e%203.png)
-![9e4](/9e%204.png)
-![9e5](/9e%205.png)
-![9e6](/9e%206.png)
-![9e7](/9e%207.png)
-![9e8](/9e%208.png)
+![9e](https://github.com/PREM3112/ODD23-24-WT-JavaScript/assets/145449383/c1f3c6f3-8772-41a9-8951-b1de67973bfa)
+![9e 1](https://github.com/PREM3112/ODD23-24-WT-JavaScript/assets/145449383/908b9c47-a619-4e6a-a921-3979364f9dae)
+![9e 2](https://github.com/PREM3112/ODD23-24-WT-JavaScript/assets/145449383/b50c8938-896b-450d-be4b-7e0b8fcac025)
+![9e 3](https://github.com/PREM3112/ODD23-24-WT-JavaScript/assets/145449383/589b22c2-880a-4a7d-9b18-e2bfa4831a99)
+![9e 4](https://github.com/PREM3112/ODD23-24-WT-JavaScript/assets/145449383/a97720b9-2021-423d-868e-758fd15d7596)
+![9e 5](https://github.com/PREM3112/ODD23-24-WT-JavaScript/assets/145449383/ed1a6436-8d46-432a-b19a-9822e0c8875b)
+![9e 6](https://github.com/PREM3112/ODD23-24-WT-JavaScript/assets/145449383/096950f6-59af-49ea-99d1-81907e18e90e)
+![9e 7](https://github.com/PREM3112/ODD23-24-WT-JavaScript/assets/145449383/1a2675b8-d3c3-4125-81bd-d89fcd6aedf5)
+![9e 8](https://github.com/PREM3112/ODD23-24-WT-JavaScript/assets/145449383/14148868-28dd-45d7-9f60-ca18f9134197)
+
 
 
 # Ex-09(f):
@@ -390,6 +400,7 @@ function validateForm() {
 ```
 
 # OUTPUT(9f):
-![9f](/9f.png)
+![9f](https://github.com/PREM3112/ODD23-24-WT-JavaScript/assets/145449383/7435bbe5-3f38-4b05-b566-f27fd5761c3d)
+
 ## result:
 thus all the queries outputs got successfully.
